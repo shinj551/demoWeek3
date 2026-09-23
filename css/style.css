@@ -13,6 +13,12 @@ h1{
     background-color: aliceblue;
     color: firebrick;
 }
+
+h2, h3, h4, h5, h6 {
+    font-family: "Space Mono", monospace;
+    color: red
+    ;
+}
 p{
     line-height: 200%;
      font-family: "Space Mono", monospace;
