@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: aliceblue;
+    color: firebrick;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Space Mono", monospace;
+    color: red;
+    text-decoration: underline;
+}
+p{
+    line-height: 200%;
+     font-family: "Space Mono", monospace;
+     font-weight: 400;
+     font-style: normal;
+}
+
+.footnote {
+    font-weight: 700;
+}
+
+a{
+    color: purple;
+    font-weight: 400;
+    font-style: italic;
+    text-decoration: green wavy underline;
+    text-transform: uppercase;
+}
+
+.classicalName {
+    font-style: italic;
+    color: blue;
+}
+
+#OrchidDisambig {
+    color: rgb(209, 63, 87);
+    text-shadow: 8px 8px #e8d8e8;
+}
+
+a {
+    text-shadow: 0px 0px;
+}
